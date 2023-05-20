@@ -8,6 +8,9 @@ parent: Software Development Proposal
 # Introduction
 {: .no_toc }
 
+This section presents the motivation, aims, objectives, and deliverables, providing a concise overview of the project's goals and expected outcomes.
+{: .fs-6 .fw-300 }
+
 ## Table of contents
 {: .no_toc .text-delta }
 
