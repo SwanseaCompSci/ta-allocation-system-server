@@ -48,3 +48,12 @@ By achieving these project aims, the Teaching Assistant Allocation System will r
 1. **Support comprehensive reporting and analytics**: The objective is to incorporate functionality for generating comprehensive reports and analytics based on the TA allocation data. The API should provide endpoints to retrieve allocation statistics, workload distribution, and other relevant insights, facilitating data-driven decision-making and continuous improvement of the TA allocation process.
 
 By achieving these objectives, the project will deliver a reliable and scalable API for the Teaching Assistant Allocation System, enabling efficient TA allocation, supporting seamless integration with other systems, and promoting data-driven decision-making within the Computer Science department.
+
+## Deliverables
+
+1. **Teaching Assistant Allocation System API**: The primary deliverable of the project is a fully functional Teaching Assistant Allocation System API. This API will provide secure and efficient endpoints for handling TA profiles, course details, and allocation preferences, enabling seamless integration with other systems and applications.
+1. **Optimized TA Allocation Algorithms**: The project will deliver optimized algorithms for TA allocation. These algorithms will consider factors such as TA qualifications, module requirements, and workload distribution to ensure fair and effective assignment of TAs to modules and labs.
+1. **Comprehensive API Documentation**: The project will provide detailed documentation for the API. This documentation will include clear explanations of API endpoints, request/response formats, and authentication mechanisms, enabling easy integration and utilization of the API by other developers.
+1. **Training and Support Materials**: The project will produce training materials and support documentation to assist administrators and users in effectively utilizing the Teaching Assistant Allocation System API. These materials will facilitate a smooth adoption and integration process and provide ongoing support for system maintenance and troubleshooting.
+
+In conclusion, these deliverables will provide the Computer Science department with a robust and efficient solution for managing teaching assistant assignments. The API, optimized algorithms, and comprehensive documentation will facilitate seamless integration and utilization. Furthermore, the training and support materials will empower users to make the most of the system and ensure its successful implementation.
