@@ -19,6 +19,9 @@ grand_parent: Software Development Proposal
 
 ---
 
-## Heading 2
+## API Design
 
-Lorem ipsum...
+The project must follow:
+
+- [Microsoft's API guidelines](https://github.com/microsoft/api-guidelines), and
+- [RESTful web API design best practices](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design).
