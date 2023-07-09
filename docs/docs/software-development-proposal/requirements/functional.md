@@ -77,9 +77,9 @@ Below is a table describing actions each user and role is allowed to take.
 
 [//]: <> (Describe the main features and functionality of the software, including any essential components that are critical to its operation.)
 
-### User Interface
+### API Endpoints
 
-[//]: <> (Detail the user interface requirements, including layout, navigation, and design elements.)
+[//]: <> (Detail the API endpoints requirements, including the HTTP methods, the request and response formats, and the expected response codes.)
 
 ### Data Management
 
