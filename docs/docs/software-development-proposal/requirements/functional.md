@@ -20,31 +20,25 @@ grand_parent: Software Development Proposal
 
 ---
 
-## Hosting
+## Introduction
 
-Lorem ipsum...
+[//]: <> (Provide an overview of the functional requirements and their importance in the software development process.)
 
-## Security and Identity
+## User Roles and Permissions
 
-Lorem ipsum...
-
-### Authentication
-
-The application must integrate with Azure Active Directory and support Single Sign-on.
-
-### Authorization
+[//]: <> (Define the different user roles and their respective permissions within the software, such as administrators, managers, and end-users.)
 
 The application must implement the following set of roles:
 
 - Administrator
 - User
 
-User can have one of the following roles for each module:
+Each user can have one of the following roles for each module:
 
 - Module Coordinator
 - Teaching Assistant
 
-Below is a table describing actions each role is allowed to take.
+Below is a table describing actions each user and role is allowed to take.
 
 |                                 | Administrator | Module Coordinator | Teaching Assistant |
 |:-------------------------------:|:-------------:|:------------------:|:------------------:|
@@ -79,8 +73,52 @@ Below is a table describing actions each role is allowed to take.
 
 [^1]: Also allowed to fill-in questionnaires on behalf of other users.
 
-### Data Protection
+## Core Features and Functionality
 
-- Encryption at rest
-- Data integrity (Row versioning)
-- Concurrency
+[//]: <> (Describe the main features and functionality of the software, including any essential components that are critical to its operation.)
+
+### User Interface
+
+[//]: <> (Detail the user interface requirements, including layout, navigation, and design elements.)
+
+### Data Management
+
+[//]: <> (Explain how the software will handle data storage, retrieval, and manipulation, including any database requirements.)
+
+### Integration with External Systems
+
+[//]: <> (Describe any necessary integration with external systems, such as third-party APIs or other software components.)
+
+### Reporting and Analytics
+
+[//]: <> (Outline the reporting and analytics capabilities of the software, including any custom reports or dashboards that need to be developed.)
+
+## Security and Compliance
+
+[//]: <> (Discuss the security and compliance requirements for the software, including data protection, user authentication, and any industry-specific regulations that must be adhered to.)
+
+The application must integrate with Azure Active Directory and support Single Sign-on.
+
+## Performance and Scalability
+
+[//]: <> (Describe the performance and scalability requirements for the software, including any expected load and response times, as well as the ability to handle future growth.)
+
+## Accessibility and Usability
+
+[//]: <> (Outline the accessibility and usability requirements for the software, ensuring that it meets the needs of all users, including those with disabilities.)
+
+## Localization and Internationalization
+
+[//]: <> (Discuss any localization and internationalization requirements, such as support for multiple languages and cultural considerations.)
+
+## Testing and Quality Assurance
+
+[//]: <> (Explain the testing and quality assurance processes that will be used to ensure the software meets the functional requirements and is free of defects.)
+
+## Documentation and Training
+
+[//]: <> (Describe the documentation and training materials that will be provided to help users understand and effectively use the software.)
+
+## Summary
+
+[//]: <> (Summarize the functional requirements and emphasize their importance in the successful development and implementation of the software.)
