@@ -78,7 +78,7 @@ Below is a table describing actions each role is allowed to take.
 | Run allocation algorithms       | Yes           | -                  | -               | -                  |
 | Delete all data in the system   | Yes           | -                  | -               | -                  |
 
-> [^1]: Only on the user's own behalf.
+[^1]: Only on the user's own behalf.
 
 ### Data Protection
 
