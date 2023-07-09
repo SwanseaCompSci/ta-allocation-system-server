@@ -72,13 +72,13 @@ Below is a table describing actions each role is allowed to take.
 | Add users to labs               | Yes           | Yes                | Yes             | -                  |
 | Remove users from labs          | Yes           | Yes                | Yes             | -                  |
 | Send questionnaires to users    | Yes           | -                  | -               | -                  |
-| Fill-in questionnaires          | Yes           | Yes[^1]            | Yes[^1]         | Yes[^1]            |
+| Fill-in questionnaires          | Yes[^1]       | Yes                | Yes             | Yes                |
 | Approve pre-allocation requests | Yes           | Yes                | Yes             | -                  |
 | Deny pre-allocation requests    | Yes           | Yes                | Yes             | -                  |
 | Run allocation algorithms       | Yes           | -                  | -               | -                  |
 | Delete all data in the system   | Yes           | -                  | -               | -                  |
 
-[^1]: Only on the user's own behalf.
+[^1]: Also allowed to fill-in questionnaires on behalf of other users.
 
 ### Data Protection
 
