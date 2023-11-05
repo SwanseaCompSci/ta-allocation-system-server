@@ -85,6 +85,9 @@ Below is a table describing actions each user and role is allowed to take.
 
 [//]: <> (Explain how the software will handle data storage, retrieval, and manipulation, including any database requirements.)
 
+- Row versioning
+- Concurrency
+
 ### Integration with External Systems
 
 [//]: <> (Describe any necessary integration with external systems, such as third-party APIs or other software components.)
